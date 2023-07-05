@@ -4,7 +4,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 - - - - 
 # Heading 1 #
 
-    Markup :  # Heading 1 #
+    Markup :  # 見出し　１ #
 
     -OR-
 
@@ -12,7 +12,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
 ## Heading 2 ##
 
-    Markup :  ## Heading 2 ##
+    Markup :  ## 見出し　２ ##
 
     -OR-
 
@@ -20,20 +20,20 @@ Markdown Cheatsheet<a name="TOP"></a>
 
 ### Heading 3 ###
 
-    Markup :  ### Heading 3 ###
+    Markup :  ### 見出し　３ ###
 
 #### Heading 4 ####
 
-    Markup :  #### Heading 4 ####
+    Markup :  #### 見出し　４ ####
 
 
 Common text
 
-    Markup :  Common text
+    Markup :  強調テキスト
 
 _Emphasized text_
 
-    Markup :  _Emphasized text_ or *Emphasized text*
+    Markup :  _ 強調されたテキスト_
 
 ~~Strikethrough text~~
 
